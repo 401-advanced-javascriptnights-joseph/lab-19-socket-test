@@ -5,7 +5,7 @@
 ### Author: Joseph Hangarter
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-19-socket-test/pull/5)
+* [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-19-socket-test/pull/6)
 
 ### Modules
 #### `app.js` 
